@@ -1,5 +1,6 @@
 # Take 2 sorted arrays (python lists)
 # Find the median of the two sorted arrays
+#
 
 # If its an even number then the median is the sum of the 
 # two middle numbers divided by 2 Eg;
